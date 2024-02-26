@@ -36,7 +36,7 @@
   ],
   "dependencies": {
     "@types/mdast": "^4.0.0",
-    "mdast-util-math": "^3.0.0",
+    "mdast-util-math": "github:ugogon/mdast-util-math",
     "micromark-extension-math": "^3.0.0",
     "unified": "^11.0.0"
   },
